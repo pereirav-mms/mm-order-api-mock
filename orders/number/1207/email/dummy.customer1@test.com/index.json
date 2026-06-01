@@ -1,0 +1,99 @@
+{
+  "id": 1207,
+  "note_atributtes": {
+    "Last-Sync-Date": "2026-04-28T10:11:09.563Z",
+    "OriginalShopifyOrderId": "DEMO-ORIGINAL-ORDER-1203"
+  },
+  "email": "dummy.customer1@test.com",
+  "closed_at": null,
+  "created_at": "2026-03-23T15:52:22+00:00",
+  "updated_at": "2026-04-28T10:11:09+00:00",
+  "number": 1207,
+  "note": "Order created by REVER as an exchange from order #1203",
+  "token": "token1207demo",
+  "gateway": null,
+  "total_price": "0.00",
+  "subtotal_price": "0.00",
+  "total_weight": 250,
+  "total_tax": "0.00",
+  "taxes_included": true,
+  "currency": "EUR",
+  "financial_status": "paid",
+  "confirmed": true,
+  "total_discounts": "239.00",
+  "total_line_items_price": "239.00",
+  "cart_token": "carttoken1207demo",
+  "buyer_accepts_marketing": true,
+  "name": "#1207",
+  "referring_site": null,
+  "landing_site": null,
+  "cancelled_at": null,
+  "cancel_reason": null,
+  "total_price_usd": "0.00",
+  "checkout_token": "checktoken1207demo",
+  "reference": null,
+  "user_id": null,
+  "fulfillment_status": "unfulfilled",
+  "source_name": "web",
+  "tags": "l:e233:bl:e233, l:e233:dm:sth, l:e233:ps:topre, l:o:checked, l:pc:35001, REVER Exchange",
+  "discount_codes": [
+    {
+      "code": "REVER-EXCHANGE-DISCOUNT",
+      "amount": "239.00",
+      "type": "fixed_amount"
+    }
+  ],
+  "payment_gateway_names": [],
+  "line_items": [
+    {
+      "id": 36000000000011,
+      "name": "Movil - POCO M4 Pro, Negro Asfalto, 256 GB, 8 GB RAM, 6.43 FHD+, MediaTek Helio G96, 5000 mAh, Android 11",
+      "sku": "1528388",
+      "quantity": 1,
+      "price": "239.00",
+      "compare_at_price": "249.00",
+      "vendor": "POCOPHONE",
+      "requires_shipping": true,
+      "taxable": true,
+      "fulfillment_status": "pending",
+      "total_discount": "0.00"
+    }
+  ],
+  "billing_address": {
+    "first_name": "John",
+    "last_name": "Doe",
+    "name": "John Doe",
+    "company": null,
+    "address1": "Carretera del Norte",
+    "address2": "n. 12",
+    "city": "Las Palmas De Gran Canaria",
+    "zip": "35001",
+    "province": "Las Palmas",
+    "province_code": "GC",
+    "country": "Spain",
+    "country_code": "ES",
+    "phone": "600000003"
+  },
+  "shipping_address": {
+    "first_name": "John",
+    "last_name": "Doe",
+    "name": "John Doe",
+    "company": null,
+    "address1": "Carretera del Norte",
+    "address2": "n. 12",
+    "city": "Las Palmas De Gran Canaria",
+    "zip": "35001",
+    "province": "Las Palmas",
+    "province_code": "GC",
+    "country": "Spain",
+    "country_code": "ES",
+    "phone": "600000003"
+  },
+  "shipping_lines": [
+    {
+      "code": "Shipping paid in Rever platform",
+      "title": "Shipping paid in Rever platform",
+      "price": "0.00"
+    }
+  ]
+}

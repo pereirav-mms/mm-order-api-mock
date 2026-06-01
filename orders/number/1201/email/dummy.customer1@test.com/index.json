@@ -1,0 +1,84 @@
+{
+  "id": 1201,
+  "note_atributtes": {
+    "Last-Sync-Date": "2026-04-28T10:11:11.927Z",
+    "Checkout-Method": "cross-store-pickup",
+    "Store-Delivery-Id": "67112272043",
+    "Shopify-Location-Id": "00000000001",
+    "Customer-Selected-Store": "67112140971"
+  },
+  "email": "dummy.customer1@test.com",
+  "closed_at": null,
+  "created_at": "2026-03-09T07:42:11+00:00",
+  "updated_at": "2026-03-09T07:42:11+00:00",
+  "number": 1201,
+  "note": "UPD",
+  "token": "token1201demo",
+  "gateway": null,
+  "total_price": "429.00",
+  "subtotal_price": "429.00",
+  "total_weight": 500,
+  "total_tax": "0.00",
+  "taxes_included": true,
+  "currency": "EUR",
+  "financial_status": "pending",
+  "confirmed": true,
+  "total_discounts": "0.00",
+  "total_line_items_price": "429.00",
+  "cart_token": "carttoken1201demo",
+  "buyer_accepts_marketing": true,
+  "name": "#1201",
+  "referring_site": null,
+  "landing_site": null,
+  "cancelled_at": null,
+  "cancel_reason": null,
+  "total_price_usd": "429.00",
+  "checkout_token": "checktoken1201demo",
+  "reference": null,
+  "user_id": null,
+  "fulfillment_status": "unfulfilled",
+  "source_name": "web",
+  "tags": "l:e509:bl:e509, l:e509:dm:csp, l:e509:pl:e233, l:o:checked, l:pc:35018",
+  "discount_codes": [],
+  "payment_gateway_names": [
+    "custom"
+  ],
+  "line_items": [
+    {
+      "id": 36000000000001,
+      "name": "Apple Watch Series 10 (2024), GPS, 42 mm, Gesto de doble toque, Caja de aluminio Negro azabache, Correa deportiva Negra, Talla S/M",
+      "sku": "1582216",
+      "quantity": 1,
+      "price": "429.00",
+      "compare_at_price": null,
+      "vendor": "APPLE",
+      "requires_shipping": true,
+      "taxable": true,
+      "fulfillment_status": "pending",
+      "total_discount": "0.00"
+    }
+  ],
+  "billing_address": {
+    "first_name": "John",
+    "last_name": "Doe",
+    "name": "John Doe",
+    "company": "ES-NIE-DUMMY-01",
+    "address1": "Carretera del Norte",
+    "address2": "n. 12",
+    "city": "Las Palmas De Gran Canaria",
+    "zip": "35001",
+    "province": "Las Palmas",
+    "province_code": "GC",
+    "country": "Spain",
+    "country_code": "ES",
+    "phone": "600000001"
+  },
+  "shipping_address": null,
+  "shipping_lines": [
+    {
+      "code": "MediaMarkt Las Palmas - Alisios (E233)",
+      "title": "MediaMarkt Las Palmas - Alisios (E233)",
+      "price": "0.00"
+    }
+  ]
+}

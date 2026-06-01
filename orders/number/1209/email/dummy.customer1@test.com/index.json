@@ -1,0 +1,81 @@
+{
+  "id": 1209,
+  "note_atributtes": {
+    "Last-Sync-Date": "2026-04-28T10:11:08.758Z",
+    "Customer-Selected-Store": "67112140971"
+  },
+  "email": "dummy.customer1@test.com",
+  "closed_at": null,
+  "created_at": "2026-04-28T09:58:09+01:00",
+  "updated_at": "2026-04-28T10:11:08+00:00",
+  "number": 1209,
+  "note": null,
+  "token": "token1209demo",
+  "gateway": null,
+  "total_price": "189.00",
+  "subtotal_price": "189.00",
+  "total_weight": 250,
+  "total_tax": "0.00",
+  "taxes_included": true,
+  "currency": "EUR",
+  "financial_status": "pending",
+  "confirmed": true,
+  "total_discounts": "0.00",
+  "total_line_items_price": "189.00",
+  "cart_token": "carttoken1209demo",
+  "buyer_accepts_marketing": true,
+  "name": "#1209",
+  "referring_site": null,
+  "landing_site": null,
+  "cancelled_at": null,
+  "cancel_reason": null,
+  "total_price_usd": "189.00",
+  "checkout_token": "checktoken1209demo",
+  "reference": null,
+  "user_id": null,
+  "fulfillment_status": "unfulfilled",
+  "source_name": "web",
+  "tags": "",
+  "discount_codes": [],
+  "payment_gateway_names": [
+    "Cash on Delivery (COD)"
+  ],
+  "line_items": [
+    {
+      "id": 36000000000013,
+      "name": "Movil - Xiaomi Redmi Note 9 Pro, Verde, 128 GB, 6 GB, 6.67 Full HD+, Qualcomm Snapdragon, 5020 mAh, Android",
+      "sku": "1479120",
+      "quantity": 1,
+      "price": "189.00",
+      "compare_at_price": null,
+      "vendor": "XIAOMI",
+      "requires_shipping": true,
+      "taxable": true,
+      "fulfillment_status": "pending",
+      "total_discount": "0.00"
+    }
+  ],
+  "billing_address": {
+    "first_name": "John",
+    "last_name": "Doe",
+    "name": "John Doe",
+    "company": "ES-NIE-DUMMY-01",
+    "address1": "Carretera del Norte",
+    "address2": "n. 12",
+    "city": "Las Palmas De Gran Canaria",
+    "zip": "35001",
+    "province": "Las Palmas",
+    "province_code": "GC",
+    "country": "Spain",
+    "country_code": "ES",
+    "phone": "600000003"
+  },
+  "shipping_address": null,
+  "shipping_lines": [
+    {
+      "code": "MediaMarkt Las Palmas - Las Arenas (E508)",
+      "title": "MediaMarkt Las Palmas - Las Arenas (E508)",
+      "price": "0.00"
+    }
+  ]
+}

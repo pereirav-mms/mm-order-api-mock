@@ -1,0 +1,119 @@
+{
+  "id": 1203,
+  "note_atributtes": {
+    "Last-Sync-Date": "2026-04-28T10:11:11.088Z",
+    "Checkout-Method": "delivery-from-store",
+    "Store-Delivery-Id": "67112239275",
+    "Customer-Selected-Store": "67112140971"
+  },
+  "email": "dummy.customer1@test.com",
+  "closed_at": null,
+  "created_at": "2026-03-17T12:05:08+00:00",
+  "updated_at": "2026-04-28T10:11:11+00:00",
+  "number": 1203,
+  "note": "REVER return approved. Process ID: retp_DEMO_1203",
+  "token": "token1203demo",
+  "gateway": null,
+  "total_price": "0.00",
+  "subtotal_price": "0.00",
+  "total_weight": 300,
+  "total_tax": "0.00",
+  "taxes_included": true,
+  "currency": "EUR",
+  "financial_status": "paid",
+  "confirmed": true,
+  "total_discounts": "24.66",
+  "total_line_items_price": "16.68",
+  "cart_token": "carttoken1203demo",
+  "buyer_accepts_marketing": true,
+  "name": "#1203",
+  "referring_site": null,
+  "landing_site": null,
+  "cancelled_at": null,
+  "cancel_reason": null,
+  "total_price_usd": "0.00",
+  "checkout_token": "checktoken1203demo",
+  "reference": null,
+  "user_id": null,
+  "fulfillment_status": "fulfilled",
+  "source_name": "web",
+  "tags": "l:e258:bl:e258, l:e258:dm:sth, l:e258:ps:topre, l:o:checked, l:o:fixed, l:pc:35001, REVER returns",
+  "discount_codes": [
+    {
+      "code": "DEMO-DISCOUNT-01",
+      "amount": "6.79",
+      "type": "percentage"
+    },
+    {
+      "code": "DEMO-DISCOUNT-02",
+      "amount": "17.87",
+      "type": "fixed_amount"
+    }
+  ],
+  "payment_gateway_names": [],
+  "line_items": [
+    {
+      "id": 36000000000004,
+      "name": "Gamuza - We Make It Anti-Vaho, Para gafas, 300 usos, Blanco",
+      "sku": "1496304",
+      "quantity": 1,
+      "price": "6.79",
+      "compare_at_price": "8.09",
+      "vendor": "WEMAKEIT",
+      "requires_shipping": true,
+      "taxable": true,
+      "fulfillment_status": "fulfilled",
+      "total_discount": "0.00"
+    },
+    {
+      "id": 36000000000005,
+      "name": "Pablo Alboron - Vertigo - CD (Digipack) + 10 Postales + Mascarilla",
+      "sku": "1493657",
+      "quantity": 1,
+      "price": "9.89",
+      "compare_at_price": "9.89",
+      "vendor": "WARNER MUSIC SPAIN, S.A",
+      "requires_shipping": true,
+      "taxable": true,
+      "fulfillment_status": "fulfilled",
+      "total_discount": "0.00"
+    }
+  ],
+  "billing_address": {
+    "first_name": "John",
+    "last_name": "Doe",
+    "name": "John Doe",
+    "company": "ES-NIF-DUMMY-01",
+    "address1": "Carretera del Norte",
+    "address2": "n. 12",
+    "city": "Las Palmas De Gran Canaria",
+    "zip": "35001",
+    "province": "Las Palmas",
+    "province_code": "GC",
+    "country": "Spain",
+    "country_code": "ES",
+    "phone": "600000001"
+  },
+  "shipping_address": {
+    "first_name": "John",
+    "last_name": "Doe",
+    "name": "John Doe",
+    "company": "ES-NIF-DUMMY-01",
+    "address1": "Carretera del Norte",
+    "address2": "n. 12",
+    "city": "Las Palmas De Gran Canaria",
+    "zip": "35001",
+    "province": "Las Palmas",
+    "province_code": "GC",
+    "country": "Spain",
+    "country_code": "ES",
+    "phone": "600000001"
+  },
+  "shipping_lines": [
+    {
+      "code": "Hasta 5kg - Gran Canaria y Tenerife",
+      "title": "Hasta 5kg - Gran Canaria y Tenerife",
+      "price": "7.98"
+    }
+  ]
+}

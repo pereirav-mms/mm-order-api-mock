@@ -1,0 +1,106 @@
+{
+  "id": 1206,
+  "note_atributtes": {
+    "Last-Sync-Date": "2026-05-06T12:38:53.329Z",
+    "Checkout-Method": "delivery-from-store",
+    "Store-Delivery-Id": "00000000003",
+    "Customer-Selected-Store": "67112140971"
+  },
+  "email": "dummy.customer1@test.com",
+  "closed_at": null,
+  "created_at": "2026-03-17T12:09:53+00:00",
+  "updated_at": "2026-05-06T12:38:53+00:00",
+  "number": 1206,
+  "note": null,
+  "token": "token1206demo",
+  "gateway": null,
+  "total_price": "0.00",
+  "subtotal_price": "0.00",
+  "total_weight": 15000,
+  "total_tax": "0.00",
+  "taxes_included": true,
+  "currency": "EUR",
+  "financial_status": "paid",
+  "confirmed": true,
+  "total_discounts": "317.99",
+  "total_line_items_price": "288.00",
+  "cart_token": "carttoken1206demo",
+  "buyer_accepts_marketing": true,
+  "name": "#1206",
+  "referring_site": null,
+  "landing_site": null,
+  "cancelled_at": null,
+  "cancel_reason": null,
+  "total_price_usd": "0.00",
+  "checkout_token": "checktoken1206demo",
+  "reference": null,
+  "user_id": null,
+  "fulfillment_status": "fulfilled",
+  "source_name": "web",
+  "tags": "l:e233:bl:e233, l:e233:dm:sth, l:e233:ps:topre, l:o:checked, l:pc:35001",
+  "discount_codes": [
+    {
+      "code": "DEMO-DISCOUNT-01",
+      "amount": "288.00",
+      "type": "percentage"
+    },
+    {
+      "code": "DEMO-DISCOUNT-02",
+      "amount": "29.99",
+      "type": "fixed_amount"
+    }
+  ],
+  "payment_gateway_names": [],
+  "line_items": [
+    {
+      "id": 36000000000010,
+      "name": "Microondas integrable - OK OMWG 20193DS BI, 700 w, 20 l, Encastrable con Marco, 6 niveles, Inox",
+      "sku": "1470492",
+      "quantity": 3,
+      "price": "96.00",
+      "compare_at_price": null,
+      "vendor": "OK",
+      "requires_shipping": true,
+      "taxable": true,
+      "fulfillment_status": "fulfilled",
+      "total_discount": "0.00"
+    }
+  ],
+  "billing_address": {
+    "first_name": "John",
+    "last_name": "Doe",
+    "name": "John Doe",
+    "company": "ES-NIF-DUMMY-01",
+    "address1": "Carretera del Norte",
+    "address2": "n. 12",
+    "city": "Las Palmas De Gran Canaria",
+    "zip": "35001",
+    "province": "Las Palmas",
+    "province_code": "GC",
+    "country": "Spain",
+    "country_code": "ES",
+    "phone": "600000002"
+  },
+  "shipping_address": {
+    "first_name": "John",
+    "last_name": "Doe",
+    "name": "John Doe",
+    "company": "ES-NIF-DUMMY-01",
+    "address1": "Carretera del Norte",
+    "address2": "n. 12",
+    "city": "Las Palmas De Gran Canaria",
+    "zip": "35001",
+    "province": "Las Palmas",
+    "province_code": "GC",
+    "country": "Spain",
+    "country_code": "ES",
+    "phone": "600000002"
+  },
+  "shipping_lines": [
+    {
+      "code": "Grandes dimensiones - Gran Canaria y Tenerife",
+      "title": "Grandes dimensiones - Gran Canaria y Tenerife",
+      "price": "29.99"
+    }
+  ]
+}

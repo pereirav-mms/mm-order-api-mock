@@ -1,0 +1,117 @@
+{
+  "id": 1204,
+  "note_atributtes": {
+    "Last-Sync-Date": "2026-04-28T10:11:10.642Z",
+    "Customer-Selected-Store": "67112140971"
+  },
+  "email": "dummy.customer1@test.com",
+  "closed_at": null,
+  "created_at": "2026-03-17T12:06:35+00:00",
+  "updated_at": "2026-04-28T10:11:10+00:00",
+  "number": 1204,
+  "note": "REVER return approved. Process ID: retp_DEMO_1204",
+  "token": "token1204demo",
+  "gateway": null,
+  "total_price": "0.00",
+  "subtotal_price": "0.00",
+  "total_weight": 2000,
+  "total_tax": "0.00",
+  "taxes_included": true,
+  "currency": "EUR",
+  "financial_status": "paid",
+  "confirmed": true,
+  "total_discounts": "127.87",
+  "total_line_items_price": "119.89",
+  "cart_token": "carttoken1204demo",
+  "buyer_accepts_marketing": true,
+  "name": "#1204",
+  "referring_site": null,
+  "landing_site": null,
+  "cancelled_at": null,
+  "cancel_reason": null,
+  "total_price_usd": "0.00",
+  "checkout_token": "checktoken1204demo",
+  "reference": null,
+  "user_id": null,
+  "fulfillment_status": "fulfilled",
+  "source_name": "web",
+  "tags": "l:e258:bl:e258, l:e258:dm:sth, l:e258:ps:topre, l:o:checked, l:o:fixed, l:pc:35001, REVER returns",
+  "discount_codes": [
+    {
+      "code": "DEMO-DISCOUNT-01",
+      "amount": "19.90",
+      "type": "percentage"
+    },
+    {
+      "code": "DEMO-DISCOUNT-02",
+      "amount": "107.97",
+      "type": "fixed_amount"
+    }
+  ],
+  "payment_gateway_names": [],
+  "line_items": [
+    {
+      "id": 36000000000006,
+      "name": "De Animales A Dioses. Sapiens (DEBATE) - Yuval Noah Harari - Tapa blanda",
+      "sku": "1300925",
+      "quantity": 1,
+      "price": "19.90",
+      "compare_at_price": null,
+      "vendor": "DEBATE",
+      "requires_shipping": true,
+      "taxable": true,
+      "fulfillment_status": "fulfilled",
+      "total_discount": "0.00"
+    },
+    {
+      "id": 36000000000007,
+      "name": "Radio CD - Sony Boombox ZSPS50W, Blanco",
+      "sku": "1277262",
+      "quantity": 1,
+      "price": "99.99",
+      "compare_at_price": null,
+      "vendor": "SONY",
+      "requires_shipping": true,
+      "taxable": true,
+      "fulfillment_status": "fulfilled",
+      "total_discount": "0.00"
+    }
+  ],
+  "billing_address": {
+    "first_name": "John",
+    "last_name": "Doe",
+    "name": "John Doe",
+    "company": "ES-NIF-DUMMY-01",
+    "address1": "Carretera del Norte",
+    "address2": "n. 12",
+    "city": "Las Palmas De Gran Canaria",
+    "zip": "35001",
+    "province": "Las Palmas",
+    "province_code": "GC",
+    "country": "Spain",
+    "country_code": "ES",
+    "phone": "600000001"
+  },
+  "shipping_address": {
+    "first_name": "John",
+    "last_name": "Doe",
+    "name": "John Doe",
+    "company": "ES-NIF-DUMMY-01",
+    "address1": "Carretera del Norte",
+    "address2": "n. 12",
+    "city": "Las Palmas De Gran Canaria",
+    "zip": "35001",
+    "province": "Las Palmas",
+    "province_code": "GC",
+    "country": "Spain",
+    "country_code": "ES",
+    "phone": "600000002"
+  },
+  "shipping_lines": [
+    {
+      "code": "Hasta 5kg - Gran Canaria y Tenerife",
+      "title": "Hasta 5kg - Gran Canaria y Tenerife",
+      "price": "7.98"
+    }
+  ]
+}
